@@ -4,6 +4,8 @@ The purpose of this project is to provide an eficient means of analyzing stock d
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 ### Original analysis
+The green stock analsyis xlsm file (green_stocks.xlsm), Module2_VBA_Script.rtf file, screen shot for runtime and anlaysis for 2017(Module2_2017_Runtime.png), and 2018 (Module2_2018_Runtime.png) are in the resource folder. The run time for 2017 was 0.429 seconds and for 2018 was 0.421. 
+### Refactred Code adn Analsysis
 
 
 ## Summary: In a summary statement, address the following questions.
