@@ -14,3 +14,6 @@ Obviously, refactoring the code made the runtime much shorter. The disadvantage 
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 In this particular example it took me a couple of hours to figure out how to refactor the code. The time saved on runtime was factions of seconds. In this particular case it wasn't necessary. 
+
+## Challanges
+I could not open VBA script files as .vba files. I had to save them as .rft files and then copy paste the text into the editor module. I am not sure why this happened but I found a work around. 
